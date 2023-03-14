@@ -14,10 +14,10 @@ import HelloWorld from './components/HelloWorld.vue'
 <style scoped>
 header {
   line-height: 1.5;
+  text-align: center;
 }
 
 .logo {
-  display: block;
-  margin: 0 auto 2rem;
+  display: inline-block;
 }
 </style>
